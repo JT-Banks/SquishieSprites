@@ -6,8 +6,7 @@ _This is an on-going school project. The endgoal is a fully functioning game wit
 
 __Windows users:__
 ```
-Install Python, if on Windows simply go to command line, type python, and microsoft will prompt you to 
-install
+Install Python, if on Windows simply go to command line, type python, and microsoft will prompt you
 ```
 __For Mac users:__
 ```
