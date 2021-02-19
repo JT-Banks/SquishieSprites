@@ -4,6 +4,8 @@ _This is an on-going school project. The endgoal is a fully functioning game wit
 
 ### To run code:
 
+Clone repository into desired location: _git clone https://github.com/JT-Banks/SnakeGame.git_
+
 __Windows users:__
 ```
 Install Python, if on Windows simply go to command line, type python, and microsoft will prompt you
